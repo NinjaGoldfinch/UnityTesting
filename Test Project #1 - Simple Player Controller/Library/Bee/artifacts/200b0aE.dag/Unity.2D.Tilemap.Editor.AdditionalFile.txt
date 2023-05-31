@@ -1,1 +1,1 @@
-/Volumes/My Stuff/UnityProjects/Test Projects/Test Project #1 - Simple Player Controller
+/Volumes/My Stuff/UnityProjects/UnityTestProjects/UnityTesting/Test Project #1 - Simple Player Controller
